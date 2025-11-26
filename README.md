@@ -253,7 +253,6 @@ Password: manager123
 ---
 
 # 📽️ Video Walkthrough
-(Add your demo link)
 
 ---
 
@@ -264,5 +263,6 @@ MIT License — Free to use & modify.
 
 # 🙌 Author
 Your Name  
-📧 Email: your-email@example.com  
-🔗 GitHub: https://github.com/YOUR_USERNAME
+📧 Email: bachina123456789@gmail.com  
+🔗 GitHub: https://github.com/saiharshith123
+
